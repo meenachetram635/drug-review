@@ -148,9 +148,7 @@ The system architecture consists of the following components:
 ---
 
 ## Contact
-For questions or feedback, please contact:
-- [Your Email]
-- [Your GitHub Profile]
+For questions or feedback, please contact.
 
 ---
 
@@ -159,11 +157,3 @@ For questions or feedback, please contact:
 
 ---
 
-### **Key Features of the README.md**
-1. **Clear Structure**: Organized into sections for easy navigation.
-2. **Detailed Explanation**: Explains the problem, solution, and deliverables in simple terms.
-3. **Technical Details**: Includes system architecture, dataset information, and evaluation criteria.
-4. **Ethical Considerations**: Highlights the importance of data privacy and bias mitigation.
-5. **Future Work**: Suggests improvements and extensions for the project.
-
-Let me know if you need further adjustments! 🚀
